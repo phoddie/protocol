@@ -44,7 +44,7 @@ Data Message Expansion
 
 Two byte digital data format, second nibble of byte 0 gives the port number (eg 0x92 is the third port, port 2)
 ```
-0  digital data, 0x90-0x9F, (MIDI NoteOn, bud different data format)
+0  digital data, 0x90-0x9F, (MIDI NoteOn, but different data format)
 1  digital pins 0-6 bitmask
 2  digital pin 7 bitmask
 ```
