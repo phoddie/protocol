@@ -7,7 +7,7 @@ Added in Firmata protocol version 2.4.0.
 
 
 ### Example files: 
- * OneWire is include by default in [ConfigurableFirmata.ino](https://github.com/firmata/ConfigurableFirmata/blob/master/examples/ConfigurableFirmata/ConfigurableFirmata.ino). 
+ * Scheduler is include by default in [ConfigurableFirmata.ino](https://github.com/firmata/ConfigurableFirmata/blob/master/examples/ConfigurableFirmata/ConfigurableFirmata.ino). 
  * [Example implementation](https://github.com/firmata/ConfigurableFirmata/blob/master/src/FirmataScheduler.cpp) as a configurable Firmata feature class.
 
 
